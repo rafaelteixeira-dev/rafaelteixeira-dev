@@ -1,16 +1,29 @@
-## Hi there 👋
+### 💻 Sobre mim  
+Olá! Sou **Rafael (Raf4)**, estudante de **Desenvolvimento de Sistemas** no **SENAI**.  
+Atualmente estou me aprofundando em **Java**, **Python** e **Portugol**, sempre buscando aprender mais e aplicar meus conhecimentos em projetos práticos.
 
-<!--
-**fae1231/fae1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Habilidades  
+- 🟨 Java (orientação a objetos, aplicações console)  
+- 🐍 Python (scripts, automação, lógica)  
+- 🧠 Portugol (base sólida em lógica de programação)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 Em aprendizado  
+- Versionamento com Git e GitHub  
+- Desenvolvimento Web (HTML, CSS, JavaScript)  
+- Banco de Dados (MySQL)
+
+---
+
+### 📁 Repositórios em destaque  
+- [Exercícios de Lógica com Portugol Studio](https://github.com/Raf4/portugol-exercicios)  
+- [Mini projetos em Java](https://github.com/Raf4/java-projetos)  
+- [Scripts úteis em Python](https://github.com/Raf4/python-utils)
+
+---
+
+### 📫 Contato  
+- Email: fael121179@gmail.com
