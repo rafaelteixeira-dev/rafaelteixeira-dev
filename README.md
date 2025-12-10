@@ -1,15 +1,15 @@
-## olá, eu  Rafael Teixeira Mello👋
+## Olá, eu sou o Rafael Teixeira Mello 👋
 
-🎓 **Estudante do SENAI — Curso de Desenvolvimento de Sistemas (em andamento)**  
-💻 Desenvolvedor em formação com foco em **Front-end e Banco de Dados**.  
-Busco evoluir constantemente, priorizando código limpo, funcional e bem estruturado.
+🎓 Estudante do SENAI — Curso de Desenvolvimento de Sistemas  
+💻 Desenvolvedor em formação com foco em Front-end e Banco de Dados  
+Aprimoro constantemente meu código, priorizando clareza, funcionalidade e boa estrutura.
 
 ---
 
 ### 🧠 Sobre mim
 
-Atualmente estudo e desenvolvo pequenos projetos utilizando **HTML, CSS e JavaScript**, com integração a **MySQL** e **PostgreSQL**.  
-Tenho interesse em **boas práticas de programação**, design responsivo e aplicações que unem estética e desempenho.
+Desenvolvo projetos utilizando HTML, CSS e JavaScript, com integração a MySQL e PostgreSQL.  
+Tenho interesse em boas práticas, design responsivo e aplicações que unem estética e desempenho.
 
 ---
 
@@ -30,27 +30,38 @@ Tenho interesse em **boas práticas de programação**, design responsivo e apli
 
 ---
 
+### 📌 Projeto em Destaque  
+#### SUB – Sistema Único de Boletim Escolar  
+Sistema completo de boletim escolar com login, autenticação, tabelas dinâmicas, design responsivo e interface limpa.
+
+🔗 Repositório:  
+https://github.com/rafaelteixeira-dev/SUB-Sistema-Unico-Boletim-Escolar
+
+---
+
 ### 💪 Pontos Fortes
 
-- Boa base em lógica de programação e organização de código  
-- Facilidade de aprendizado e adaptação a novas tecnologias  
-- Comprometimento com clareza e eficiência no desenvolvimento  
-- Dedicação constante ao aperfeiçoamento técnico e pessoal
+- Base sólida em lógica e organização de código  
+- Facilidade de aprendizado e adaptação  
+- Compromisso com clareza, eficiência e padronização  
+- Constante evolução técnica e pessoal
 
 ---
 
 ### 📈 Em Desenvolvimento
 
-- Aprimorando conhecimentos em **React** e frameworks modernos  
-- Buscando experiência prática com **Git e colaboração em equipe**  
-- Trabalhando para aprimorar a **estrutura e documentação de projetos**
+- React e frameworks modernos  
+- Git e colaboração em equipe  
+- Documentação e estruturação de projetos
 
 ---
 
 ### 📬 Contato
 
 <div align="center">
-  <a href="mailto:rafael.t.mello.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:rafael.t.mello.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 ---
