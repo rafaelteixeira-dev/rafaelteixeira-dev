@@ -89,9 +89,17 @@ Sistema escolar desenvolvido com foco em organização, autenticação, boletim,
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafaelteixeira-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelteixeira-dev&theme=tokyonight" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelteixeira-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+<br><br>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafaelteixeira-dev&theme=tokyonight" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelteixeira-dev&theme=tokyonight" />
+
+<br><br>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafaelteixeira-dev&theme=tokyonight" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafaelteixeira-dev&theme=tokyonight&utcOffset=-3" />
 
 </div>
 
